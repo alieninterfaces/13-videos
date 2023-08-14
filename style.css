@@ -54,6 +54,11 @@ button:hover {
 
 .mid {
   margin: 20px auto;
+  font-size: 0.8rem;
+}
+
+.right {
+  text-align: right;
 }
 
 .page {
